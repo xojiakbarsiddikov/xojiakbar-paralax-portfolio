@@ -1,2 +1,2 @@
-t# xojiakbar-parallax-portfolio
+xojiakbar-parallax-portfolio
 # sources: html, css, js, parallax js
